@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Designing a PID controller for a single-link manipulator by writing a python script to simulate in Coppeliasim.
+Designing a PID and inverse dynamics controllers for a single-link manipulator by writing a python script to simulate in Coppeliasim.
 
 ## Pre-requisites:
 
